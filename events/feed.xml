@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="hu"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://bbsit.hu/events/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bbsit.hu/" rel="alternate" type="text/html" hreflang="hu" /><updated>2026-07-23T12:52:53+02:00</updated><id>https://bbsit.hu/events/feed.xml</id><title type="html">Build it. Break it. Secure it. | Events</title><subtitle>A Build it. Break it. Secure it. gyakorlati workshop aktuális és korábbi alkalmai.</subtitle><entry><title type="html">Build it. Break it. Secure it.</title><link href="https://bbsit.hu/events/build-it-break-it-secure-it/" rel="alternate" type="text/html" title="Build it. Break it. Secure it." /><published></published><updated></updated><id>https://bbsit.hu/events/build-it-break-it-secure-it</id><content type="html" xml:base="https://bbsit.hu/events/build-it-break-it-secure-it/"><![CDATA[<p>Sziasztok! 😊</p>
+
+<p>Szervezünk egy 6 alkalmas, ingyenes workshopot azoknak, akiket érdekel a Windows 11, az Intune, az Entra ID vagy a Microsoft Defender világa.</p>
+
+<p>Nem egy hagyományos előadás lesz, ahol végignézünk egy rakás diát. Inkább közösen építünk, tesztelünk, hibázunk, debugolunk, és közben megnézzük, hogyan működik egy modern Microsoft környezet a gyakorlatban.</p>
+
+<p>Lesz saját Windows 11 kliens, Microsoft 365 E5 alapú lab környezet, Intune, Entra ID, Defender és sok valós példán keresztül szerzett tapasztalat.</p>
+
+<p>⚠️ Fontos: az alkalmak egymásra épülnek, ezért a teljes workshop-sorozat heti rendszerességű követésére érdemes készülni.</p>
+
+<p>A sorozat célja, hogy gyakorlati betekintést adjon a Microsoft endpoint management és endpoint security világába. 🚀</p>
+
+<ul class="event-highlights">
+  <li><span>📅</span><span>6 alkalom</span></li>
+  <li><span>📍</span><span>Csütörtökönként</span></li>
+  <li><span>💸</span><span>Ingyenes</span></li>
+  <li><span>💻</span><span>Rendelkezz saját géppel‼️</span></li>
+  <li><span>👥</span><span>Maximum 20 fő</span></li>
+</ul>
+
+<p>(Ha bármilyen kérdés felmerülne, írj Discordon a #general vagy a #collab_and_help csatornára! )</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Sziasztok! 😊]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://bbsit.hu/assets/images/build-it-break-it-secure-it.jpg" /><media:content medium="image" url="https://bbsit.hu/assets/images/build-it-break-it-secure-it.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
